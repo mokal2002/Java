@@ -5,8 +5,10 @@ import java.lang.*;
 
 // Creating a class as public
 public class printing_hello_world {
-      //printing String 
-      System.out.println("Hello, World");
+      public static void main(String[] args) {
+            //printing String 
+           System.out.println("Hello, World");
+    }
 }
 
 //Thanks for view my repository
