@@ -1,2 +1,2 @@
 # Java
-I'm learnig java now
+I'm learning java now
