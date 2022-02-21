@@ -1,4 +1,4 @@
-package com.Java;
+package com.ReadKeyBoard;
 
 // i am going to show you how to scanner read keywords form keyboard
 // write a program to read keywords from keyboard using scanner
