@@ -21,3 +21,24 @@ public class ReadKeyBoard {
 
     }
 }
+
+//////////Output///////////
+// int condition..       //
+//  41                   //
+//  You Enter: 41        //
+///////////////////////////
+
+//////////Output///////////
+// float condition..     //
+//  41                   //
+//  You Enter: 41.00     //
+///////////////////////////
+
+//////////Output////////////
+//  doublecondition..    //
+//  41                   //
+//  You Enter: 41.0      //
+///////////////////////////
+
+//Thanks you
+//bye
