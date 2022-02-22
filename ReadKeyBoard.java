@@ -17,7 +17,7 @@ public class ReadKeyBoard {
         int x=sc.nextInt();    //Note only 1 time 1 veriable can define i just write only
         //float x=sc.nextInt();
         //double x=sc.nextInt();
-        System.out.println(x);
+        System.out.println("You Enter" + x);
 
     }
 }
