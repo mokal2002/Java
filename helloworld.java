@@ -11,5 +11,12 @@ public class helloworld {
     }
 }
 
+///////////Output///////////
+//                        //
+//  Hello, World          //
+//                        //
+////////////////////////////
+
+
 //Thanks for view my repository
 //bye
