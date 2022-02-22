@@ -1,4 +1,4 @@
-//Write a program to input from user and display eg.Welcome to you on my github page
+//Write a program to input from user and display eg.Welcome (name)
 
 //Import module util
 import java.util.*;
@@ -20,5 +20,13 @@ public class welcome {
     }
     
 }
+
+///////////////Output////////////////
+//May I know your Name:            //
+//to you on my github page         //
+//Welcome to you on my github page //
+/////////////////////////////////////
+
+
 //Thanks you
 //bye
