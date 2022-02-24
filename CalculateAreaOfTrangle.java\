@@ -1,0 +1,46 @@
+//Write a program to Calculate area of a Trangle
+
+// Import Modules
+import java.lang.*;
+import java.util.*;
+
+public class CalAreaOfTrangle {
+
+   
+    public static void main(String[] args) 
+    {
+       Scanner sc=new Scanner(System.in);
+       
+       int a,b,c;
+       double r1,r2;
+       
+       System.out.println("Enter the values of a ,b and c: ");
+       a=sc.nextInt();  
+       b=sc.nextInt();
+       c=sc.nextInt();
+       //The nextInt() method of Java Scanner class is used to scan the next token of the input as an int.
+    
+       r1=(-b+Math.sqrt(b*b-4*a*c))/(2*a);
+       r2=(-b-Math.sqrt(b*b-4*a*c))/(2*a);
+       //formula n=-b√(bxb-4xaxc)/2xa 
+       //The java.lang.Math.sqrt() returns the square root of a value of type double passed to it as argument. If the argument is NaN or negative, then the result is NaN.
+       
+       System.out.println("Roots are: "+r1+" "+r2 );
+    }
+    
+}
+
+//################################################################################################################################################################################//
+
+
+///////////////////Output///////////////////
+// Enter the values of a ,b and c:        //
+// 41                                     //
+// 54                                     //
+// 95                                     //
+// Roots are: NaN NaN                     //
+////////////////////////////////////////////
+
+
+// Thanks You
+// bye
